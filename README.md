@@ -1,4 +1,19 @@
 # Twitter Sentiment Analysis
 
-Implemented "Twitter Sentiment Analysis" using NLP and Python. 🚀📊
-Delved into the realm of Natural Language Processing to decode the sentiments behind tweets. Excited to share insights on harnessing AI for understanding public opinion!
+## 🧠 Project Overview
+This project focuses on sentiment classification of Twitter text data using Deep Learning. Tweets are preprocessed and trained using an LSTM model to classify emotions as Positive, Negative, or Neutral.
+
+## 🔍 Key Features
+Data preprocessing: tokenization, stopword removal, cleaning
+
+Word embeddings + sequence padding
+
+LSTM-based deep learning model
+
+Multi-class tweet sentiment prediction
+
+## 🛠 Tech Stack
+Python · TensorFlow/Keras · NLTK · Pandas · NumPy
+
+## 📌 Output
+A trained sentiment model that predicts sentiment labels for new tweets.
