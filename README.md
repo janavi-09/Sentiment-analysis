@@ -13,7 +13,9 @@ LSTM-based deep learning model
 Multi-class tweet sentiment prediction
 
 ## 🛠 Tech Stack
+```
 Python · TensorFlow/Keras · NLTK · Pandas · NumPy
+```
 
 ## 📌 Output
 A trained sentiment model that predicts sentiment labels for new tweets.
